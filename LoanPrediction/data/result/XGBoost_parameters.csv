@@ -1,0 +1,2 @@
+"max(mdcv$evaluation_log$val_auc)","mdcv$best_iteration","booster","objective","max_depth","eta","subsample","colsample_bytree","min_child_weight"
+0.853615,795,"gbtree","binary:logistic",5,0.148590315489564,0.916580747487023,0.80006720982492,10
